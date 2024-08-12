@@ -24,7 +24,7 @@
 
 ### Моя статистика на LeetCode
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/gasansangasanov)](https://leetcode.com/gasansangasanov)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Hasyanchik)](https://leetcode.com/Hasyanchik)
 
 
 --- 
