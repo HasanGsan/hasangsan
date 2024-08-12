@@ -11,6 +11,8 @@
 
 <img src="https://img.shields.io/badge/Kotlin-333333?style=for-the-badge&logo=Kotlin&logoColor=ffd700  "/> <img src="https://img.shields.io/badge/Android Studio-333333?style=for-the-badge&logo=Android Studio&logoColor=ffd700 "/>  <img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=SQLite&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=php&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/PhpMyAdmin-333333?style=for-the-badge&logo=phpmyadmin&logoColor=ffd700 "/>  <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html5&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/CSS-333333?style=for-the-badge&logo=css3&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/javascript-333333?style=for-the-badge&logo=javascript&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/wordpress-333333?style=for-the-badge&logo=wordpress&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/wordpress-333333?style=for-the-badge&logo=wordpress&logoColor=ffd700 "/> <img src="https://img.shields.io/badge/jquery-333333?style=for-the-badge&logo=jquery&logoColor=ffd700 "/>
 
+--- 
+
 ### Моя статистика на GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanGsan&theme=radical)
