@@ -2,7 +2,7 @@
 
 Я Хасан <img src="https://media1.tenor.com/m/dMftwDwTI04AAAAC/bpakgea-what.gif" alt="Alt text" width="20" height="20"> (или Гасан), и я только начинаю свой путь в мобильной разработке. <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I1ejJhNXpsMHdkM2R6b3BqZjUwb3Q4NDkxdXRudWk5b3dhOGN4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.webp" alt="Alt text" width="20" height="20">
 
-Занимаюсь Android-разработкой на **Kotlin**, а также имею опыт работы с Web-технологиями. 📱💻 
+Занимаюсь Android-разработкой на **Kotlin**, а так же имею опыт работы с Web-технологиями. 📱💻 
 
 Люблю решать алгоритмические задачи. Постоянно стремлюсь улучшать свои навыки и изучать новые технологии!) <img src="https://media1.tenor.com/m/11FHLgWrYPUAAAAC/zach-mdx-mandala-exchange.gif" alt="Alt text" width="25" height="25">
 
