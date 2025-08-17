@@ -30,8 +30,9 @@
 </p>
 
 
+<p align="center">
 
---- 
+---
 
 ### Моя статистика на GitHub
 
@@ -39,16 +40,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanGsan&layout=compact)
 
-
---- 
+---
 
 ### Моя статистика на LeetCode
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Hasyanchik)](https://leetcode.com/Hasyanchik)
 
-
---- 
+---
 
 ### 🤝 Контакты:
-<a href="https://t.me/GsanSan" target="_blank"><img src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
+<a href="https://t.me/GsanSan" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue"/>
+</a>
 
+</p>
