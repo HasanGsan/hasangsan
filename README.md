@@ -30,21 +30,23 @@
 </p>
 
 
-<p align="center">
+<div align="center">
 
 ---
 
 ### Моя статистика на GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasanGsan&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=HasanGsan&theme=radical" alt="GitHub Stats"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanGsan&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanGsan&layout=compact" alt="Top Langs"/>
 
 ---
 
 ### Моя статистика на LeetCode
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Hasyanchik)](https://leetcode.com/Hasyanchik)
+<a href="https://leetcode.com/Hasyanchik">
+  <img src="https://leetcard.jacoblin.cool/Hasyanchik" alt="Leetcode Stats"/>
+</a>
 
 ---
 
@@ -53,4 +55,5 @@
   <img src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue"/>
 </a>
 
-</p>
+</div>
+
