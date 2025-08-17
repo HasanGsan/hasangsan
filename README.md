@@ -6,11 +6,8 @@
 
 Люблю решать алгоритмические задачи. Постоянно стремлюсь улучшать свои навыки и изучать новые технологии!) <img src="https://media1.tenor.com/m/11FHLgWrYPUAAAAC/zach-mdx-mandala-exchange.gif" alt="Alt text" width="25" height="25">
 
-<p align="center">
+<h3 align="center">Мой стек технологий</h3>
 
-### Мой стек технологий
-
-</p>
 
 
 
